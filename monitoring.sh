@@ -9,10 +9,10 @@
 # Criado: 27/08/2003
 # -------------------------------------------------------------------------
  
-# adicione o ip / nome do host separado por um espaço em branco, para iterar ainda mais durante o ping
+# Adicione o ip / nome do host separado por um espaço em branco, para iterar ainda mais durante o ping
 HOSTS="10.72.179.204 10.72.179.205 search.google.com"
  
-# número de solicitações de ping
+# Número de solicitações de ping
 COUNT=1
 LOG_FILE=/opt/ping-log.txt
  
