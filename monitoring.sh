@@ -1,7 +1,7 @@
 #!/bin/bash
 # ------------------------------------------------------------------------- 
-# Simple SHELL script for Linux and UNIX system monitoring with
-# ping command
+# # Script SHELL simples para monitoramento de sistema Linux e UNIX com 
+# comando ping
 # -------------------------------------------------------------------------
 
 # ------------------------------------------------------------------------- 
@@ -9,10 +9,10 @@
 # Criado: 27/08/2003
 # -------------------------------------------------------------------------
  
-# add ip / host name separated by white space , so that iterate further while ping
+# adicione o ip / nome do host separado por um espaço em branco, para iterar ainda mais durante o ping
 HOSTS="10.72.179.204 10.72.179.205 search.google.com"
  
-# number of ping requests
+# número de solicitações de ping
 COUNT=1
 LOG_FILE=/opt/ping-log.txt
  
